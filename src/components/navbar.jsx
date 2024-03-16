@@ -49,7 +49,7 @@ const NavBar = () => {
   const scrollPosition = useScrollPosition();
 
   return (
-    <div
+    <header
       className={
         navBarOpen
           ? styles.navOpen
@@ -120,7 +120,7 @@ const NavBar = () => {
           </Link>
         </ul>
       )}
-    </div>
+    </header>
   );
 };
 

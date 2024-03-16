@@ -10,7 +10,7 @@
     position: fixed;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0px 5px 10px rgba(253, 174, 174, 0.1); 
+    box-shadow: 0px 5px 10px rgba(255, 255, 255, 0.1); 
   }
   
   .navOpen {
@@ -114,6 +114,10 @@
     background-color: #E1E5EE;
     border-radius: 4px;
     padding: 3px;
+  }
+  .contactLink:active {
+    transform: translateY(1px);
+    box-shadow: none;
   }
   .contactLink:hover {
     cursor: pointer;
