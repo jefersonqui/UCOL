@@ -1,44 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap");
+
+
 :root {
   --color-text: #E6BCCD;
   --color-one: #E1E5EE;
   --color-base: #012A36;
+  --color-white-100: hsl(206, 5%, 100%);
+  --color-white-200: hsl(206, 5%, 90%);
+  --color-white-300: hsl(206, 5%, 80%);
+  --color-white-400: hsl(206, 5%, 25%);
+  --color-white-500: hsl(206, 5%, 50%);
+
+  --color-black-100: hsl(213, 20%, 10%);
+  --color-black-200: hsl(213, 23%, 8%);
+  --color-black-300: hsl(214, 21%, 6%);
+  --color-black-400: hsl(210, 21%, 6%);
+  --color-black-500: hsl(216, 22%, 4%);
+  --color-black-600: hsl(220, 18%, 3%);
+  --color-black-700: hsl(220, 27%, 2%);
+  --color-black-800: hsl(180, 20%, 1%);
+
+  --color-blue-100: hsl(214, 95%, 93%);
+  --color-blue-200: hsl(213, 97%, 87%);
+  --color-blue-300: hsl(212, 96%, 78%);
+  --color-blue-400: hsl(213, 94%, 68%);
+  --color-blue-500: hsl(217, 91%, 60%);
+  --color-blue-600: hsl(221, 83%, 53%);
+  --color-blue-700: hsl(224, 76%, 48%);
+  --color-blue-800: hsl(226, 71%, 40%);
+  --color-blue-900: hsl(224, 64%, 33%);
+
+  --shadow-small: 0 1px 3px 0 rgba(0, 0, 0, 0.1),
+    0 1px 2px 0 rgba(0, 0, 0, 0.06);
+  --shadow-medium: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+    0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --shadow-large: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 .navBar {
   display: flex;
   height: 50px;
   width: 100%;
-  position: fixed;
   justify-content: space-between;
   align-items: center;
-  box-shadow: 0px 5px 10px rgba(255, 255, 255, 0.1);
+  transition: .5s;
+  box-shadow: 0px 5px 5px rgba(255, 226, 226, 0.266);
+  
 }
 
 .navOpen {
   display: flex;
-  position: fixed;
+  position: relative;
   height: 100%;
   width: 100%;
-  background-color: #012A36;
+  background-color: var(--color-black-900);
   flex-direction: column;
   align-items: center;
+  padding: 4px 4px;
+  box-shadow: 0px 5px 10px rgba(255, 255, 255, 0.1);
+  
 }
 
-.navOpen:hover {
-  cursor: pointer;
-  color: #f9fd0a;
-}
 
 .navLink {
-  display: flex;
+  display: flex;  
   font-size: 2em;
   font-weight: 400;
-  color: var(--color-one);
-  padding-top: 90px;
+  color: var(--color-white-200);
+  padding: 10px;
+  align-items: center;
+  
 }
 
 .navLink:hover {
   cursor: pointer;
+  color: #f9fd0a;
 }
 
 /* .border {
@@ -47,7 +84,7 @@
     animation-name: animacionborde;
     animation-duration: 1s;
     background-color: rgb(57, 145, 115);
-  } */
+  }
 
 @keyframes animacionborder {
   0% {
@@ -57,36 +94,41 @@
   100% {
     height: 1px;
   }
-}
+} */
 
 .logo {
-  display: flex;
-  color: var(--color-one);
+  /* display: flex; */
+  color: var(--color-white-200);
   font-weight: 400;
+  margin: 0 40px;
 }
 
 @media (min-width: 800px) {
   .logo {
     font-size: 1.5em;
+    margin: 0 40px;
   }
 
   .navBar {
+    display: flex;
+    width: 100%;
+    height: 50px;
     align-content: center;
     align-items: center;
-    justify-content: space-evenly;
-    height: 50px;
+    justify-content: space-between;
+    
   }
 
   .linksContainer {
     display: flex;
-    width: 50%;
+    width: 40%;
     flex-direction: row;
     justify-content: space-evenly;
   }
 
   .navLink {
     font-weight: 400;
-    padding-top: 4px;
+    padding: 4px;
     font-size: 1.1em;
     transition: 0.5s;
   }
@@ -97,27 +139,31 @@
   }
 
   .navOnScroll {
+    
     align-content: center;
     align-items: center;
     justify-content: space-evenly;
     height: 50px;
-    background-color: var(--color-one);
-  }
+   
+  } 
 }
 
 .navOnScroll {
   display: flex;
   height: 50px;
   width: 100%;
-  position: fixed;
-  justify-content: space-around;
+  /* position: fixed; */
+  justify-content: space-between;
   align-items: center;
-  background-color: var(--color-one);
+  /* transition: 0.7s;
+  background-color: var(--color-white-400); */
+  padding: 30px 0;   
+  
 }
 
 .contactLink {
   color: var(--color-base);
-  display: flex;  
+  display: flex;
   text-decoration: none;
   display: inline-block;
   font-family: inherit;
@@ -128,7 +174,7 @@
   vertical-align: middle;
   white-space: nowrap;
   border-radius: 0.25rem;
-  transition: all 0.3s ease-in-out;
+  transition: all 0.5s ease-in-out;
   padding: 5px 15px;
   background-color: hsl(214, 95%, 93%);
 
@@ -139,5 +185,5 @@
 .contactLink:hover {
   cursor: pointer;
   color: var(--color-base);
-  box-shadow: 0 0 10px 0  hsl(214, 95%, 93%);
-} 
+  background-color: #f9fd0a;
+}

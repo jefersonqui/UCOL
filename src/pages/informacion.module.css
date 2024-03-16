@@ -1,0 +1,36 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 90%;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    margin: 0 auto;    
+}
+@media (max-width: 768px) {
+    .container {
+      animation: resizeGrid 0.5s forwards;
+    }
+  }
+  
+  @keyframes resizeGrid {
+    from {
+      grid-template-columns: 1fr 1fr;
+    }
+    to {
+      grid-template-columns: 1fr;
+    }
+  }
+  
+.item {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px; 
+    
+}
+/* h2, p, li{
+    color: black;
+} */

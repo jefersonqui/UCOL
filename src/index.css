@@ -2,7 +2,7 @@ body {
   margin: 0;
   padding: 0;
   
-  background-color: #012A36;
+  
   font-family: "Rubik", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -12,8 +12,4 @@ body {
    height: -webkit-fill-available;
    color: var(--color-white-100);
    background-color: var(--color-black-500);
-}
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
 }

@@ -8,6 +8,7 @@ import { AiOutlineMenu } from "react-icons/ai";
 import { AiOutlineClose } from "react-icons/ai";
 import { useScrollPosition } from "../Hooks/scrollPosition";
 
+
 const NavBar = () => {
   const [navBarOpen, setNavBarOpen] = useState(false);
   const [windowDimension, setWindowDimension] = useState({
@@ -57,6 +58,7 @@ const NavBar = () => {
           ? styles.navOnScroll
           : styles.navBar
       }
+      
     >
       {!navBarOpen && <p className={styles.logo}>Colombia | Map</p>}
       {!navBarOpen && windowDimension.width < 800 ? (
