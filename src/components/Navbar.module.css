@@ -1,126 +1,143 @@
-:root{
-    --color-text: #E6BCCD;
-    --color-one: #E1E5EE;
-    --color-base: #012A36;
+:root {
+  --color-text: #E6BCCD;
+  --color-one: #E1E5EE;
+  --color-base: #012A36;
 }
+
 .navBar {
-    display: flex;
-    height: 50px;
-    width: 100%;
-    position: fixed;
-    justify-content: space-between;
-    align-items: center;
-    box-shadow: 0px 5px 10px rgba(255, 255, 255, 0.1); 
-  }
-  
-  .navOpen {
-    display: flex;
-    position: fixed;
-    height: 100%;
-    width: 100%;
-    background-color: #012A36;
-    flex-direction: column;
-    align-items: center;
-  }
-  .navOpen:hover {
-    cursor: pointer;
-    color: #f9fd0a;
-  }
-  .navLink {
-    display: flex;
-    font-size: 2em;
-    font-weight: 400;
-    color: var(--color-one);
-    padding-top: 90px;
-  }
-  
-  .navLink:hover {
-    cursor: pointer;
-  }
-  
-  /* .border {
+  display: flex;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  justify-content: space-between;
+  align-items: center;
+  box-shadow: 0px 5px 10px rgba(255, 255, 255, 0.1);
+}
+
+.navOpen {
+  display: flex;
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-color: #012A36;
+  flex-direction: column;
+  align-items: center;
+}
+
+.navOpen:hover {
+  cursor: pointer;
+  color: #f9fd0a;
+}
+
+.navLink {
+  display: flex;
+  font-size: 2em;
+  font-weight: 400;
+  color: var(--color-one);
+  padding-top: 90px;
+}
+
+.navLink:hover {
+  cursor: pointer;
+}
+
+/* .border {
     display: flex;
     height: 1px;
     animation-name: animacionborde;
     animation-duration: 1s;
     background-color: rgb(57, 145, 115);
   } */
-  
-  @keyframes animacionborder {
-    0% {
-      height: 0px;
-    }
-    100% {
-      height: 1px;
-    }
+
+@keyframes animacionborder {
+  0% {
+    height: 0px;
   }
-  
+
+  100% {
+    height: 1px;
+  }
+}
+
+.logo {
+  display: flex;
+  color: var(--color-one);
+  font-weight: 400;
+}
+
+@media (min-width: 800px) {
   .logo {
-    display: flex;
-    color: var(--color-one);
-    font-weight: 400;
+    font-size: 1.5em;
   }
-  
-  @media (min-width: 800px) {
-    .logo {
-      font-size: 1.5em;
-    }
-    .navBar {
-      align-content: center;
-      align-items: center;
-      justify-content: space-evenly;
-      height: 50px;
-    }
-    .linksContainer {
-      display: flex;
-      width: 50%;
-      flex-direction: row;
-      justify-content: space-evenly;
-    }
-    .navLink {
-      font-weight: 400;
-      padding-top: 4px;
-      font-size: 1.1em;
-      transition: 0.5s;
-    }
-    .navLink:hover {
-      cursor: pointer;
-      color: #f9fd0a;
-    }
-    .navOnScroll {
-      align-content: center;
-      align-items: center;
-      justify-content: space-evenly;
-      height: 50px;
-      background-color: var(--color-one);
-    }
-  }
-  
-  .navOnScroll {
-    display: flex;
-    height: 50px;
-    width: 100%;
-    position: fixed;
-    justify-content: space-around;
+
+  .navBar {
+    align-content: center;
     align-items: center;
+    justify-content: space-evenly;
+    height: 50px;
+  }
+
+  .linksContainer {
+    display: flex;
+    width: 50%;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+
+  .navLink {
+    font-weight: 400;
+    padding-top: 4px;
+    font-size: 1.1em;
+    transition: 0.5s;
+  }
+
+  .navLink:hover {
+    cursor: pointer;
+    color: #f9fd0a;
+  }
+
+  .navOnScroll {
+    align-content: center;
+    align-items: center;
+    justify-content: space-evenly;
+    height: 50px;
     background-color: var(--color-one);
   }
-  
-  .contactLink {
-    color:  var(--color-base);
-    display: flex;
-    font-size: 1.1em;
-    font-weight: 400;
-    background-color: #E1E5EE;
-    border-radius: 4px;
-    padding: 3px;
-  }
-  .contactLink:active {
-    transform: translateY(1px);
-    box-shadow: none;
-  }
-  .contactLink:hover {
-    cursor: pointer;
-    color: var(--color-base);
-    box-shadow: 0 0 10px 0 rgba(225, 229, 238, 0.5);
-  }
+}
+
+.navOnScroll {
+  display: flex;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+  justify-content: space-around;
+  align-items: center;
+  background-color: var(--color-one);
+}
+
+.contactLink {
+  color: var(--color-base);
+  display: flex;  
+  text-decoration: none;
+  display: inline-block;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 500;
+  line-height: 1.5;
+  text-align: center;
+  vertical-align: middle;
+  white-space: nowrap;
+  border-radius: 0.25rem;
+  transition: all 0.3s ease-in-out;
+  padding: 5px 15px;
+  background-color: hsl(214, 95%, 93%);
+
+}
+
+
+
+.contactLink:hover {
+  cursor: pointer;
+  color: var(--color-base);
+  box-shadow: 0 0 10px 0  hsl(214, 95%, 93%);
+} 
