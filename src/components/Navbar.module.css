@@ -44,8 +44,8 @@
   width: 100%;
   justify-content: space-between;
   align-items: center;
-  transition: .5s;
-  box-shadow: 0px 5px 5px rgba(255, 226, 226, 0.266);
+  /* transition: .5s; */
+  box-shadow: 0px 5px 5px rgba(255, 226, 226, 0.266); 
   
 }
 
@@ -128,9 +128,9 @@
 
   .navLink {
     font-weight: 400;
-    padding: 4px;
+    
     font-size: 1.1em;
-    transition: 0.5s;
+    /* transition: 0.5s; */
   }
 
   .navLink:hover {
@@ -152,12 +152,10 @@
   display: flex;
   height: 50px;
   width: 100%;
-  /* position: fixed; */
   justify-content: space-between;
   align-items: center;
-  /* transition: 0.7s;
-  background-color: var(--color-white-400); */
   padding: 30px 0;   
+  
   
 }
 

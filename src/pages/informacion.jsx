@@ -8,7 +8,8 @@ const Informacion = () => {
             <p>Nuestra página web es una plataforma interactiva diseñada para ayudarte a 
             explorar las universidades públicas y privadas de Colombia de una 
             manera intuitiva y eficiente...</p>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore, illo. Quo, veritatis vero vitae facilis non consequuntur labore adipisci, vel amet tempore dolor repellat laudantium aliquid doloribus unde itaque. Numquam?</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Labore, illo. Quo, 
+                veritatis vero vitae facilis non consequuntur labore adipisci, vel amet tempore dolor repellat laudantium aliquid doloribus unde itaque. Numquam?</p>
         </div>
         <div className={styles.item}>
             <h2>¿Cómo funciona?</h2>

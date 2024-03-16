@@ -57,6 +57,7 @@ const NavBar = () => {
           : scrollPosition > 0
           ? styles.navOnScroll
           : styles.navBar
+          
       }
       
     >
