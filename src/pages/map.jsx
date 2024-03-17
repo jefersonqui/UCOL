@@ -1,17 +1,20 @@
 import styles from './map.module.css';
+import coSvg from '../assets/co.svg';
 
 
 const Map = () => {
     return (
         <section className={styles.container}>
-            <h2 className={styles.titleh2}>Mapa</h2>
+            <div className={styles.conttile}>
+                <h2 className={styles.titleh2}>Mapa</h2>
+            </div>
             <div className={styles.containermapa}>
                 <div className={styles.divmapa}>
-
+                    <h2>Departamento:  </h2>
                     <p>Descripcion de la parte seleccionada del mapa</p>
                 </div>
                 <div className={styles.mapa}>
-                    <p>Aqui va el mapa</p>
+                <img class={styles.svgmap} src={coSvg} alt="MapaCo" />
                 </div>
                 <div className={styles.description}>
                     <p>Descripcion de la parte seleccionada del mapa</p>
