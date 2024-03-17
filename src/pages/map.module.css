@@ -1,0 +1,15 @@
+.containermapa {
+    display: grid;
+    grid-template-columns: 1fr 2.3fr 1fr;
+    gap: 20px;
+    width: 90% ;    
+    padding: 20px 0;    
+    border-radius: 10px;
+    margin: 0 auto;    
+    position: relative;
+    overflow: hidden;
+   
+  }
+  .container{
+    align-items: center;
+  }
