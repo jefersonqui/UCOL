@@ -16,18 +16,20 @@
       width: 100%;
       padding: 10%;
     }
-    .svgmap{
+    .svgmap svg{
      
       width: 500px;
+      height: auto;
     }
   }
   @media only screen and (max-width:576px){
     .containermapa{
       gap: 10px;
     }
-    .svgmap{
+    .svgmap svg{
       
       width: 300px;
+      height: auto;
     }
   }
   .container{
@@ -45,10 +47,21 @@
  .titleh2{
   text-align: center;
  }
-.mapa{
-  background-color: rgba(255, 228, 196, 0.286);
-}
-.svgmap{
+ .svgmap svg{
   max-width: 100%;
   width: 800px;
+  height: auto;
+ }
+
+ .svgmap {
+  background-color: rgba(255, 228, 196, 0.286);
+ 
+  
+}
+.svgmap path {
+  fill: rgba(0, 255, 255, 0.411);
+  stroke: #ffffff; 
+}
+.svgmap path:hover {
+  fill: rgb(0, 255, 255);
 }
