@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styles from './map.module.css';
-import coSvg from '../assets/svgco.svg'
+import coSvg from '../assets/svgco.svg';
 
 
 
@@ -46,7 +46,7 @@ const Map = () => {
                         <h4>Departamento: </h4><p>{selectedDepartment}</p>
                     </div>
                     <div className={styles.pathDepartamento}>
-                            
+
                     </div>
                 </div>
                 <div className={`${styles.mapa}`}>
