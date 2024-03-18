@@ -11,10 +11,13 @@ function App() {
 
   return (
     <>
-      <NavBar/>
-      <Banner/>
-      <Info/>
-      <Map/>
+      <NavBar />
+      <Banner />
+      <Info />
+      <Map />
+      {/* <script async src="https://cse.google.com/cse.js?cx=104da680270bc41d5">
+      </script>
+      <div class="gcse-search"></div> */}
     </>
   )
 }

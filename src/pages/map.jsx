@@ -9,6 +9,9 @@ const Map = () => {
     //////////////////
     const [svgContent, setSvgContent] = useState(null);
     const [selectedDepartment, setSelectedDepartment] = useState(null);
+
+
+
     useEffect(() => {
         const fetchSvg = async () => {
             try {
@@ -18,21 +21,28 @@ const Map = () => {
                 }
                 const svgText = await response.text();
                 setSvgContent(svgText);
+
+
             } catch (error) {
                 console.error('Error fetching SVG:', error);
             }
         };
         fetchSvg();
-        return () => {            
+        return () => {
             setSvgContent(null);
         };
     }, []);
     //////////////////
 
+
     //aqui se escucha el click
     const handleDepartmentClick = (departmentId) => {
         setSelectedDepartment(departmentId);
+
     };
+
+
+
 
 
     return (
@@ -51,20 +61,23 @@ const Map = () => {
                 </div>
                 <div className={`${styles.mapa}`}>
                     {svgContent && (
-                        <div 
+                        <div
                             className={styles.svgmap}
                             onClick={(e) => handleDepartmentClick(e.target.id)}
-                            dangerouslySetInnerHTML={{ __html: svgContent }}                      
+                            dangerouslySetInnerHTML={{ __html: svgContent }}
                         />
                     )}
                 </div>
                 <div className={styles.description}>
-                    <p>Descripcion de la parte seleccionada del mapa</p>
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Adipisci voluptates ipsam, a est accusamus, deserunt nulla iste impedit quaerat dolor assumenda rerum eius et sunt velit provident, harum consequuntur. Architecto.
-                    </p>
+                    <p>xd</p>
+
                 </div>
             </div >
-            <div className={styles.containerinfo}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti ipsa ab aperiam enim voluptas perspiciatis tenetur aliquam voluptatibus nobis delectus, vel tempora quibusdam nihil esse atque dicta beatae voluptates?</div>
+            <div className={styles.containerinfo}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti ipsa ab aperiam enim voluptas perspiciatis tenetur
+                aliquam voluptatibus nobis delectus, vel tempora quibusdam nihil esse atque dicta beatae voluptates?</div>
+            <script async src="https://cse.google.com/cse.js?cx=104da680270bc41d5">
+            </script>
+            <div class="gcse-search"></div>
         </section>
     )
 }
