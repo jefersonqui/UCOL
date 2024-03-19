@@ -3,70 +3,27 @@
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   width: 90%;
-  padding: 20px 0;
-  /* border: 1px solid #00ffb7; */
+  padding: 20px 0; 
   border-radius: 10px;
   margin: 0 auto;
   position: relative;
   overflow: hidden;
-  box-shadow: 16px 14px 20px #000000;
+  box-shadow: 12px 10px 26px #000000;
 
 }
-
-/* .container::before {
-  content: "";
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 90%;
-  height: 90px;
-  background-image: conic-gradient(red 20deg, transparent 120deg);
-  animation: atom 3s linear infinite;
-  
-}
-
-
-@keyframes atom {
-  from {
-    transform: rotate(0deg);
-  }
-
-  to {
-    transform: rotate(-360deg);
-  }
-}
-.container::after{
-  content: "";
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  height: 90px;
-  width: 90px;
-  background-color: antiquewhite;
-} */
-
 
 
 @media (max-width: 768px) {
   .container {
-    grid-template-columns: 1fr;
+    grid-template-columns: 1fr;    
+    width: 80%;
 
   }
 }
-
-
 
 .item {
   display: flex;
   flex-direction: column;
   padding: 30px;
-  /* border: 1px solid #ddd; */
   border-radius: 5px;
-  
-
 }
-
-/* h2, p, li{
-    color: black;
-} */

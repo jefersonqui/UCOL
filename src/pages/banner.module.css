@@ -57,6 +57,7 @@
 @media screen and (max-width: 768px) {
     .banner-container {
         grid-template-columns: 1fr;
+        
     }
 
     .image-container {

@@ -39,6 +39,7 @@
 
 .container {
   align-items: center;
+  padding: 40px;
 
 
 }
@@ -47,10 +48,6 @@
   margin-top: 30px;
   padding: 10px;
 }
-
-/* .divmapa, .mapa, .description{
-  border: 1px solid #d8cbcb;
- } */
 
 
 .titleh2 {
@@ -63,6 +60,7 @@
   height: auto;
   box-shadow: 8px 16px 20px #000000;
   border-radius: 10px;
+  
 }
 
 .svgmap path {
@@ -92,11 +90,6 @@
 
 }
 
-/* .containerinfo {
-  background-color: #00ffb71f;
-
-} */
-
 .tablapublicas,
 .tablaprivadas {
   width: 100%;
@@ -121,7 +114,3 @@ h4,h3, .geo{
   
   
 }
-/* .containerinfo{
-  background-color: #cfd1d1;
-  
-} */
