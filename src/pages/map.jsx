@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import styles from './map.module.css';
 import coSvg from '../assets/svgCo.svg';
+import departamentoData from '../assets/data.json';
 
 
 
@@ -9,8 +10,7 @@ const Map = () => {
     //////////////////
     const [svgContent, setSvgContent] = useState(null);
     const [selectedDepartment, setSelectedDepartment] = useState(null);
-
-
+    const [departmentInfo, setDepartmentInfo] = useState(null);
 
     useEffect(() => {
         const fetchSvg = async () => {
@@ -32,15 +32,13 @@ const Map = () => {
             setSvgContent(null);
         };
     }, []);
-    //////////////////
-
-
     //aqui se escucha el click
     const handleDepartmentClick = (departmentId) => {
+        const selectedDep = departamentoData.departamentos.find(dep => dep.departamento === departmentId);
         setSelectedDepartment(departmentId);
+        setDepartmentInfo(selectedDep);
 
     };
-
 
 
 
@@ -69,15 +67,55 @@ const Map = () => {
                     )}
                 </div>
                 <div className={styles.description}>
-                    <p>xd</p>
-
+                <div className={styles.geo}>
+                    {departmentInfo && (
+                            <p>Latitud: {departmentInfo.latitud}, Longitud: {departmentInfo.longitud}</p>
+                        )}
+                </div>
+                <div className={styles.containerinfoScroll}>
+                    {departmentInfo && (
+                        <div className={styles.containerinfo}>
+                            <h3>Universidades Públicas</h3>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Nombre</th>
+                                        <th>Ciudad</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {departmentInfo.universidades.publicas.map((university, index) => (
+                                        <tr key={index}>
+                                            <td>{university.nombre}</td>
+                                            <td>{university.ciudad}</td>
+                                        </tr>
+                                    ))}
+                                </tbody>
+                            </table>
+                            <h3>Universidades Privadas</h3>
+                            <table>
+                                <thead>
+                                    <tr>
+                                        <th>Nombre</th>
+                                        <th>Ciudad</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {departmentInfo.universidades.privadas.map((university, index) => (
+                                        <tr key={index}>
+                                            <td>{university.nombre}</td>
+                                            <td>{university.ciudad}</td>
+                                        </tr>
+                                    ))}
+                                </tbody>
+                            </table>
+                        </div>
+                    )}
+                </div>
                 </div>
             </div >
-            <div className={styles.containerinfo}>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad corrupti ipsa ab aperiam enim voluptas perspiciatis tenetur
-                aliquam voluptatibus nobis delectus, vel tempora quibusdam nihil esse atque dicta beatae voluptates?</div>
-            <script async src="https://cse.google.com/cse.js?cx=104da680270bc41d5">
-            </script>
-            <div class="gcse-search"></div>
+
+            
         </section>
     )
 }

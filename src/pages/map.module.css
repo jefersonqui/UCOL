@@ -1,6 +1,6 @@
 .containermapa {
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: .5fr 1.5fr 1.5fr;
     gap: 20px;
     width: 90% ;    
     padding: 20px 0;    
@@ -59,4 +59,9 @@
 }
 .svgmap path:hover {
   fill: rgb(0, 255, 255);
+}
+.containerinfoScroll{
+  overflow-y:auto;
+  max-height: 500px;
+  
 }

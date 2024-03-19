@@ -1,0 +1,2003 @@
+{
+    "departamentos":[
+    {
+    "departamento": "Antioquia",
+    "latitud": "6.242189",
+    "longitud": "-75.590229",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Colegio Mayor de Antioquía (COLMAYOR)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Universidad de Antioquia (UDEA)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Politécnico Colombiano Jaime Isaza Cadavid",
+          "ciudad": "Medellín - Bello - Niquía - Urabá"
+        },
+        {
+          "nombre": "Instituto Tecnológico Metropolitano (ITM)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Institución Universitaria de Envigado (IUE)",
+          "ciudad": "Envigado"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": ""
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Tecnológico de Antioquía (TDEA)",
+          "ciudad": "Medellín - Copacabana - Itaguí"
+        },
+        {
+          "nombre": "Universidad Autónoma Latinoam. (UNAULA)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Universidad Pontificia Bolivariana (UPB)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Universidad Católica de Oriente (UCO)",
+          "ciudad": "Medellín - Rionegro"
+        },
+        {
+          "nombre": "Universidad de Medellín (UDEM)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Universidad CES",
+          "ciudad": "Apartadó - Envigado - Medellín - Sabaneta"
+        },
+        {
+          "nombre": "Universidad EAFIT",
+          "ciudad": "Medellín - Rionegro"
+        },
+        {
+          "nombre": "Corporación Univ. de Ciencia y Tecnología de Colombia",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Corporación Universitaria Lasallista",
+          "ciudad": "Caldas"
+        },
+        {
+          "nombre": "Corporación Tecnológica Católica de Occidente (TECOC)",
+          "ciudad": "SF. Antioquía"
+        },
+        {
+          "nombre": "Corporación Academia Superior de Artes",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Corporación Tecnológico Copacabana (TECO)",
+          "ciudad": "Copacabana"
+        },
+        {
+          "nombre": "Corporación Universitaria Americana",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Corporación Universitaria de Sabaneta J. E. Valderrama",
+          "ciudad": "Sabaneta"
+        },
+        {
+          "nombre": "Corporación Politécnico Marco Fidel Suárez",
+          "ciudad": "Bello"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Apartadó - Medellín - Rionegro"
+        },
+        {
+          "nombre": "Corporación Universitaria Adventista (UNAC)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Corporación de Estudios Superiores Salamandra",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Escuela Colombiana de Carreras Industriales (ECCI)",
+          "ciudad": "Medellín"
+        },
+        {
+          "nombre": "Fundación Tecnológica Rural COREDI",
+          "ciudad": "Marinilla"
+        },
+        {
+          "nombre": "Fundación Universitaria San Martín",
+          "ciudad": "Sabaneta"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "BOGOTÁ D.C.",
+    "latitud": "4.6097",
+    "longitud": "-74.0817",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Centro de Educación Militar",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Superior de Administración Pública (ESAP)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad Distrital Francisco José de Caldas",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad Militar Nueva Granada (UMNG)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad Pedagógica Nacional",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad Colegio Mayor de Cundinamarca",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela de Inteligencia y Contrainteligencia Brigadier General Ricardo Charry Solano",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Tecnológica Instituto Técnico Central",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad de Cundinamarca",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad de Pamplona (UP)",
+          "ciudad": "Bogotá"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Corporación Centro de Nuestra Señora de las Mercedes",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Colegio de Estudios Superiores de Administración (CESA)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Colegio Mayor de Nuestra Señora del Rosario",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Colombiana de Ingeniería Julio Garavito",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Colombiana de Carreras Industriales (ECCI)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela de Artes y Letras",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Politécnico Grancolombiano",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Internacional para el Desarrollo Educativo (CIDE)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad de América",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad de Ciencias Aplicadas y Ambientales (UDCA)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria Juan N. Corpas",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria del Área Andina",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad de la Sabana",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Educativa Alexander Von Humboldt",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Unificada Nacional de Educación Superior (CUN)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Universitaria Republicana",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Tecnológica de Bogotá",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Tecnológica Industrial Colombiana",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Militar de Cadetes General José María Córdova",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria Agraria de Colombia (Uniagraria)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Colombo Germana",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria CAFAM",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria Konrad Lorenz",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria Los Libertadores",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Politécnico Colombo Andino",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Universal de Investigación y Tecnología CORUNIVERSITEC",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Universitaria de Ciencia y Desarrollo",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Universitaria IDEAS",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Policía Nacional de Colombia",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Militar de Aviación Marco Fidel Suárez",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Superior de Guerra",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación de Educación Superior Nueva América",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Escuela Colombiana de Rehabilitación",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Interamericana Técnica",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Politécnica CORPO",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria Cervantes San Agustín - UNICERVANTES",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria de Ciencias de la Salud",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación Universitaria San Martín",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Institución Universitaria Colegios de Colombia UNICOC",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universitaria de Colombia",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Instituto Caro y Cuervo",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Instituto ICSEF",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad de San Buenaventura (USB)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad del Sinú (UNISINU)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad Pontificia Bolivariana (UPB)",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Fundación de Educación Superior ESATEC",
+          "ciudad": "Bogotá"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Bogotá"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Amazonas",
+    "latitud": "−3.74912",
+    "longitud": "−73.25383",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Nacional de Colombia (UN)",
+          "ciudad": "Leticia"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Leticia"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Corporación Universitaria IDEAS",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Politécnico Santafé de Bogotá",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Universidad Santo Tomás (USTA)",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Leticia"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Arauca",
+    "latitud": "7.084",
+    "longitud": "-70.756",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Nacional de Colombia (UN)",
+          "ciudad": "Arauca"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Arauca"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Arauca"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Arauca"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Atlántico",
+    "latitud": "10.9855",
+    "longitud": "-74.878",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad del Atlántico",
+          "ciudad": "Barranquilla - Puerto Colombia - Abajo Suan"
+        },
+        {
+          "nombre": "Escuela Naval de Suboficiales ARC Barranquilla",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Institución Universitaria ITSA",
+          "ciudad": "Soledad - Barranquilla"
+        },
+        {
+          "nombre": "Universidad de los Llanos",
+          "ciudad": "San Antonio"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad del Norte (UNINORTE)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Universidad Simón Bolívar",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Universidad Autónoma del Caribe (UAC)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Universidad Libre",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Universidad Metropolitana",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación de Estudios Superiores Salamandra",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación Universitaria de la Costa (CUC)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación Universitaria Latinoamericana (CUL)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación Universitaria Americana",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación Tecnológica Indoamérica",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación Educativa del Litoral (CEL)",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Corp. Uni. Empresarial de Salamanca (CUES)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corp. Uni. de Cs. Empre. Educación y Salud (CORSALUD)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación Universitaria Reformada",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Politécnico Costa Atlántica (PCA)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Corporación Universitaria Rafael Núñez (CURN)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Fundación Tecnológica Antonio de Arévalo (TECNAR)",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Universidad Sergio Arboleda",
+          "ciudad": "Barranquilla"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Barranquilla"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Bolívar",
+    "latitud": "10.37",
+    "longitud": "-75.4916",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de Cartagena",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Escuela Naval de Cadetes 'Almirante Padilla'",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Colegio Mayor de Bolívar",
+          "ciudad": "Cartagena"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad del Sinú (UNISINU)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Inst. Univ. Bellas Artes y Ciencias de Bolívar (ESBA)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Fundación Universitaria Tecnológico Comfenalco",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Corporación Universitaria Rafael Núñez (CURN)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Fundación Tecnológica Antonio de Arévalo (TECNAR)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Fundación Univ. Colombo Internacional (UNICOLOMBO)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Corporación Universitaria Regional del Caribe (IAFIC)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Corporación Universitaria Autónoma de Nariño (AUNAR)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Universidad de Bogotá 'Jorge Tadeo Lozano'",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Fundación Universitaria Los Libertadores",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Universidad de Ciencias Aplicadas y Ambientales (UDCA)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Universidad de San Buenaventura (USB)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Universidad Libre",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Universidad Tecnológica de Bolívar",
+          "ciudad": "Manga - Vía Turbaco"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Cartagena"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Cartagena"
+        }
+      ]
+    }
+  },    
+  {
+    "departamento": "Boyacá",
+    "latitud": "5.4545",
+    "longitud": "-73.362",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Pedagógica y Tecnológica de Colombia (UPTC)",
+          "ciudad": "Chiquinquirá - Duitama - Sogamoso - Tunja"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Tunja"
+        },
+        {
+          "nombre": "Escuela Superior de Administración Pública (ESAP)",
+          "ciudad": ""
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad de Boyacá",
+          "ciudad": "Tunja"
+        },
+        {
+          "nombre": "Universidad Santo Tomás (USTA)",
+          "ciudad": "Tunja"
+        },
+        {
+          "nombre": "Fundación Universitaria Juan de Castellanos (JDC)",
+          "ciudad": "Tunja"
+        },
+        {
+          "nombre": "Instituto Técnico de Colombia",
+          "ciudad": "Tunja"
+        },
+        {
+          "nombre": "Instituto Cenis de Colombia",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Academia Nacional de Aprendizaje",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Centro Colombiano Americano",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Corporación Universitaria de Ciencia y Desarrollo",
+          "ciudad": "Tunja"
+        },
+        {
+          "nombre": "Fundación Universitaria de San Gil (UNISANGIL)",
+          "ciudad": "Chiquinquirá"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Duitama - Sogamoso - Tunja"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Sogamoso"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Duitama - Tunja"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Caldas",
+    "latitud": "5.0704",
+    "longitud": "-75.5138",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de Caldas",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Universidad Nacional de Colombia (UN)",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Colegio Integrado Nacional Oriente de Caldas (CINOC)",
+          "ciudad": "Pensilvania"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad Católica de Manizales (UCM)",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Universidad de Manizales",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Universidad Autónoma de Manizales",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Corporación de Educ. del Norte del Tolima (COREDUCACION)",
+          "ciudad": "Dorada"
+        },
+        {
+          "nombre": "Universidad Católica Luis Amigó",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Manizales"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Manizales"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Caquetá",
+    "latitud": "1.613",
+    "longitud": "-75.611",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de la Amazonia",
+          "ciudad": "Florencia"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Florencia"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Florencia"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Casanare",
+    "latitud": "5.7589",
+    "longitud": "-71.5724",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Yopal"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Fundación Universitaria Internacional del Trópico Americano",
+          "ciudad": "Yopal"
+        },
+        {
+          "nombre": "Fundación Universitaria Tecnológica de Casanare (FUC)",
+          "ciudad": "Yopal"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Tauramena - Yopal"
+        },
+        {
+          "nombre": "Universidad de San Gil",
+          "ciudad": "Yopal"
+        },
+        {
+          "nombre": "Fundación Universitaria de San Gil (UNISANGIL)",
+          "ciudad": "Yopal"
+        },
+        {
+          "nombre": "Universidad de Boyacá",
+          "ciudad": "Yopal"
+        },
+        {
+          "nombre": "Universidad de la Salle",
+          "ciudad": "Yopal"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Yopal"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Chocó",
+    "latitud": "5.6906",
+    "longitud": "-76.6587",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Tecnológica del Chocó (UTCH)",
+          "ciudad": "Quibdó"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Fundación Universitaria Claretiana (FUCLA)",
+          "ciudad": "Quibdó"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Quibdó"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Quibdó"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Quibdó"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Quibdó"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Cesar",
+    "latitud": "10.4634",
+    "longitud": "-73.2538",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Popular del Cesar",
+          "ciudad": "Valledupar"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Fundación Universitaria del Área Andina",
+          "ciudad": "Valledupar"
+        },
+        {
+          "nombre": "Universidad de Santander (UDES)",
+          "ciudad": "Valledupar"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Valledupar"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Valledupar"
+        }
+      ]
+    }
+  },
+
+  {
+    "departamento": "Córdoba",
+    "latitud": "8.0883",
+    "longitud": "-75.5748",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de Córdoba",
+          "ciudad": "Montería"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad del Sinú (UNISINU)",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Universidad Pontificia Bolivariana (UPB)",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Corporación Universitaria Americana",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Corp. Uni. de Cs. Empre. Educación y Salud (CORSALUD)",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Corporación Universitaria del Caribe (CECAR)",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Fundación Tecnológica Antonio de Arévalo (TECNAR)",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Universidad Católica Luis Amigó",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Montería"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Montería"
+        }
+      ]
+    }
+  },
+  
+  {
+    "departamento": "Cundinamarca",
+    "latitud": "4.711",
+    "longitud": "-74.0721",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Escuela de Comunicaciones (ESCOM)",
+          "ciudad": "Facatativa"
+        },
+        {
+          "nombre": "Escuela Militar de Suboficiales Sgto. Inocencio Chincá (EMSUB)",
+          "ciudad": "Nilo"
+        },
+        {
+          "nombre": "Escuela de Suboficiales de la Fza. Aérea Colombiana (ESUFA)",
+          "ciudad": "Madrid"
+        },
+        {
+          "nombre": "Universidad de Cundinamarca",
+          "ciudad": "Chocontá - Facatativa - Fusagasugá - Girardot - Chía - Soacha - Ubate - Zipaquirá"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Facatativa"
+        },
+        {
+          "nombre": "Universidad Nacional de Colombia (UN)",
+          "ciudad": "Facatativa"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad Piloto de Colombia",
+          "ciudad": "Girardot"
+        },
+        {
+          "nombre": "Universidad de la Sabana",
+          "ciudad": "Chia"
+        },
+        {
+          "nombre": "Fundación Tecnológica de Madrid",
+          "ciudad": "Madrid"
+        },
+        {
+          "nombre": "Corporación Politécnico de Cundinamarca"
+        },
+        {
+          "nombre": "Fundación Educativa Comercial (FUNDEC)",
+          "ciudad": "Facatativa"
+        },
+        {
+          "nombre": "Escuela de Comunicaciones Militares",
+          "ciudad": "Facatativa"
+        },
+        {
+          "nombre": "Fundación Educativa San Juan Bautista",
+          "ciudad": "Facatativa"
+        },
+        {
+          "nombre": "Escuela de Artes y Letras",
+          "ciudad": "Girardot"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios"
+        },
+        {
+          "nombre": "Fundación Universitaria Agraria de Colombia (Uniagraria)",
+          "ciudad": "Facatativa"
+        },
+        {
+          "nombre": "Fundación Universitaria Cervantes San Agustín - UNICERVANTES"
+        },
+        {
+          "nombre": "Instituto Caro y Cuervo",
+          "ciudad": "Chia y Madrid"
+        },
+        {
+          "nombre": "Instituto ICSEF",
+          "ciudad": "Fusagasugá"
+        },
+        {
+          "nombre": "Universidad Incca de Colombia (UNINCCA)",
+          "ciudad": "Fusagasugá"
+        },
+        {
+          "nombre": "Universidad Manuela Beltrán (UMB)",
+          "ciudad": "Cajicá"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Huila",
+    "latitud": "2.9273",
+    "longitud": "-75.2819",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Surcolombiana (USCO)",
+          "ciudad": "Neiva"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Neiva"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Corporación Universitaria del Huila (CORHUILA)",
+          "ciudad": "Neiva - Pitalito"
+        },
+        {
+          "nombre": "Corporación Universitaria Iberoamericana",
+          "ciudad": "Neiva"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios"
+        },
+        {
+          "nombre": "Fundación Escuela Tecnológica de Neiva",
+          "ciudad": "Neiva"
+        },
+        {
+          "nombre": "Fundación Universitaria Maria Cano",
+          "ciudad": "Neiva"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Neiva"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Neiva"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "La Guajira",
+    "latitud": "11.3548",
+    "longitud": "-72.5205",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de la Guajira",
+          "ciudad": "Riohacha"
+        },
+        {
+          "nombre": "Inst. Nac. de Formación Técnica Profesional (INFOTEP)",
+          "ciudad": "San Juan del Cesar"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Riohacha"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Riohacha"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Magdalena",
+    "latitud": "11.2404",
+    "longitud": "-74.199",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad del Magdalena (UNIMAG)",
+          "ciudad": "Santa Marta"
+        },
+        {
+          "nombre": "Inst. Nac. de Formación Técnica Profesional de Ciénaga",
+          "ciudad": "Ciénaga"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad Sergio Arboleda",
+          "ciudad": "Santa Marta"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Santa Marta"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios"
+        },
+        {
+          "nombre": "Universidad de Bogotá 'Jorge Tadeo Lozano'",
+          "ciudad": "Santa Marta"
+        },
+        {
+          "nombre": "Instituto Nac. de Formación Técnica Prof. Humberto Velásquez García",
+          "ciudad": "Ciénaga"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Santa Marta"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Santa Marta"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Meta",
+    "latitud": "3.4372",
+    "longitud": "-73.0877",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de los Llanos",
+          "ciudad": "Villavicencio"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Corporación Universitaria del Meta (UNIMETA)",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Fundación CIDCA",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Universidad Autónoma de Nariño",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Instituto Politécnico Agro Industrial",
+          "ciudad": "Acacias"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Villavicencio"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Villavicencio"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Nariño",
+    "latitud": "1.2136",
+    "longitud": "-77.2811",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de Nariño (UDENAR)",
+          "ciudad": "Ipiales - Pasto - Tumaco - Túquerres"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Escuela Superior de Administración Pública (ESAP)",
+          "ciudad": "Pasto"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad Mariana",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Corporación Universitaria Autónoma de Nariño (AUNAR)",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Institución Universitaria CESMAG",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Fundación Universitaria San Martín",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Institución Universitaria Centro de Estudios Superiores Maria Goretti",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Ipiales - Pasto - Tumaco"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Pasto"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Pasto"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Norte de Santander",
+    "latitud": "7.9465",
+    "longitud": "-72.8988",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Francisco de Paula Santander (UFPS)",
+          "ciudad": "Cúcuta"
+        },
+        {
+          "nombre": "Universidad de Pamplona (UP)",
+          "ciudad": "Cúcuta - Pamplona - Villa del Rosario"
+        },
+        {
+          "nombre": "Instituto Tolimense de Formación Técnica Profesional (ITFIP)"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad Libre",
+          "ciudad": "Cúcuta"
+        },
+        {
+          "nombre": "Instituto Superior de Educación Rural (ISER)",
+          "ciudad": "Pamplona"
+        },
+        {
+          "nombre": "Universidad de Santander (UDES)",
+          "ciudad": "Cúcuta"
+        },
+        {
+          "nombre": "Universidad Simón Bolívar",
+          "ciudad": "Cúcuta"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios"
+        },
+        {
+          "nombre": "Fundación de Estudios Superiores FESC",
+          "ciudad": "Cúcuta - Ocaña"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Cúcuta"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Cúcuta"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Cúcuta"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Putumayo",
+    "latitud": "0.8697",
+    "longitud": "-76.6107",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Instituto Tecnológico del Putumayo (ITP)",
+          "ciudad": "Sibundoy - Mocoa"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Fundación Universitaria Cervantes San Agustín - UNICERVANTES",
+          "ciudad": "Mocoa"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Puerto Asís"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "San Francisco"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Quindío",
+    "latitud": "4.4607",
+    "longitud": "-75.6484",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad del Quindío",
+          "ciudad": "Armenia"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad La Gran Colombia",
+          "ciudad": "Armenia"
+        },
+        {
+          "nombre": "Esc. de Administración y Mercadotecnia del Quindío (EAM)",
+          "ciudad": "Armenia"
+        },
+        {
+          "nombre": "Corporación Uni. Empresarial Alexander von Humboldt (CUE)",
+          "ciudad": "Armenia"
+        },
+        {
+          "nombre": "Universidad San Martín",
+          "ciudad": "Armenia"
+        },
+        {
+          "nombre": "Instituto de Educación Técnica Profesional de Roldanillo",
+          "ciudad": "Buenavista"
+        },
+        {
+          "nombre": "Universidad de San Buenaventura (USB)",
+          "ciudad": "Armenia"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Armenia"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Armenia - Circasia"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Risaralda",
+    "latitud": "5.3158",
+    "longitud": "-75.9928",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Tecnológica de Pereira (UTP)",
+          "ciudad": "Pereira"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad Católica Popu. de Risaralda (UCPR)",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Universidad Libre",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Universidad Católica de Pereira (UCP)",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Fundación Universitaria del Área Andina",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Corporación Instituto de Administración y Finanzas (CIAF)",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Corporación Centro Técnico Arquitectónico (CTA)",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Corporación Univ. Santa Rosa de Cabal (UNISARC)",
+          "ciudad": "Santa Rosa de Cabal"
+        },
+        {
+          "nombre": "Fundación Colombo Germana",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Fundación Universitaria Autónoma de las Américas",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Universidad EAFIT",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Pereira"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Pereira"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "San Andrés y Providencia",
+    "latitud": "12.5567",
+    "longitud": "-81.718",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Inst. Nac. de Formación Técnica Profesional de S. Andrés",
+          "ciudad": "San Andrés"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "San Andrés"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Santander",
+    "latitud": "7.1254",
+    "longitud": "-73.1198",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad Industrial de Santander (UIS)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Unidades Tecnológicas de Santander (UTS)",
+          "ciudad": "Bucaramanga - Barrancabermeja - La esperanza - Piedecuesta"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Escuela Superior de Administración Pública (ESAP)",
+          "ciudad": "Bucaramanga"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad Manuela Beltrán (UMB)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Universidad Autónoma de Bucaramanga (UNAB)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Universidad Pontificia Bolivariana (UPB)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Instituto Universitario de La Paz",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Corporación Educativa ITAE",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Corporación Universitaria de Ciencia y Desarrollo",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Corporación Universitaria Iberoamericana",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Universidad de Santander (UDES)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Bucaramanga - San Gil"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Corporación Interamericana de Educ. Sup. (CORPOCIDES)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Corporación Univ. de Investigación y Desarrollo (UDI)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Corporación Escuela Tecnológica del Oriente",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Tecnológica FITEC",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Fundación Universitaria Comfenalco Santander",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Fundación Universitaria de San Gil (UNISANGIL)",
+          "ciudad": "San Gil"
+        },
+        {
+          "nombre": "Universidad Libre",
+          "ciudad": "Socorro"
+        },
+        {
+          "nombre": "Universidad Corciencia (UNICIENCIA)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Instituto Tecnológico FITEC",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Fundación Autónoma de Santander (FAS)",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Multithec Centro De Educación para el trabajo",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Instituto Multicomputo Santander",
+          "ciudad": "Bucaramanga"
+        },
+        {
+          "nombre": "Fundación Educativa Del Oriente Colombiano",
+          "ciudad": "Torcoroma"
+        },
+        {
+          "nombre": "Universidad Santo Tomás (USTA)",
+          "ciudad": "Bucaramanga - Piedecuesta"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Bucaramanga"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Sucre",
+    "latitud": "9.2923",
+    "longitud": "-75.3962",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad de Sucre",
+          "ciudad": "Sincelejo"
+        },
+        {
+          "nombre": "Escuela de Formación de Infantería de Marina (EFIM)",
+          "ciudad": "Santiago de Tolu"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Corporación Universitaria del Caribe (CECAR)",
+          "ciudad": "Sincelejo"
+        },
+        {
+          "nombre": "Corporación Universitaria de Sucre (CORPOSUCRE)",
+          "ciudad": "Sincelejo"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Sincelejo"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Sincelejo"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Tolima",
+    "latitud": "4.0925",
+    "longitud": "-75.1546",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad del Tolima (UT)",
+          "ciudad": "Ibagué"
+        },
+        {
+          "nombre": "Conservatorio del Tolima",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Instituto Tolimense de Formación Técnica Profesional (ITFIP)",
+          "ciudad": "Espinal"
+        },
+        {
+          "nombre": "Universidad Nacional Abierta y a Distancia (UNAD)",
+          "ciudad": "Ibagué"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Universidad de Ibagué",
+          "ciudad": "Ibagué"
+        },
+        {
+          "nombre": "Fundación Universitaria del Espinal (FUNDES)",
+          "ciudad": "Espinal"
+        },
+        {
+          "nombre": "Corporación de Educación del Norte del Tolima (COREDUCACION)",
+          "ciudad": "Honda"
+        },
+        {
+          "nombre": "Corporación Universitaria Minuto de Dios",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Fundación de Estudios Sup. Monseñor Abraham Escudero Montoya",
+          "ciudad": "Espinal"
+        },
+        {
+          "nombre": "Universidad de San Buenaventura (USB)",
+          "ciudad": "Ibagué"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Ibagué"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Espinal - Ibagué"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Ibagué"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Ibagué"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Valle del Cauca",
+    "latitud": "3.8009",
+    "longitud": "-76.6413",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad del Pacífico",
+          "ciudad": "Buenaventura"
+        },
+        {
+          "nombre": "Universidad del Valle",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Escuela Nacional del Deporte",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Nacional de Colombia (UNAL)",
+          "ciudad": "Palmira"
+        },
+        {
+          "nombre": "Institución Universitaria Antonio José Camacho",
+          "ciudad": "Santiago de Cali"
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Escuela Superior de Administración y Estudios Tecnológicos",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Ctro. I. de Entrenamiento e Inv. Médicas (CIDEIM)",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Instituto de Bellas Artes",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "UNICATÓLICA Fundación Univ. Católica Lumen Gentium",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Autónoma de Occidente (UAO)",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Icesi",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Santiago de Cali (USC)",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Central del Valle del Cauca",
+          "ciudad": "Tuluá"
+        },
+        {
+          "nombre": "Universidad San Martín",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Bautista",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Libre",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Pontificia Bolivariana (UPB)",
+          "ciudad": "Palmira"
+        },
+        {
+          "nombre": "Corporación Universitaria de los Andes",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Corporación de Estudios Tecnológicos del Norte del Valle",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Corporación de Estudios Superiores Salamandra",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Corporación Universitaria Taller Cinco",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Corporación Universitaria Autónoma de Nariño (AUNAR)",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Corporación Universitaria UNICUCES",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Corporación Universitaria Iberoamericana",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Corporación Universitaria para el Desarrollo Empresarial y Social CUDES",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Fundación Academia de Dibujo Profesional",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Fundación Centro Colombiano de Estudios Profesionales",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Tecnológica Autónoma del Pacífico",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Fundación Universitaria Maria Cano",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Fundación Universitaria San Martín",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Institución Universitaria Colegios de Colombia UNICOC",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Instituto de Educación Técnica Profesional de Roldanillo",
+          "ciudad": "Roldanillo - Cali - El Dovio"
+        },
+        {
+          "nombre": "Instituto Técnico Agrícola ITA",
+          "ciudad": "Guadalajara de Buga"
+        },
+        {
+          "nombre": "Instituto Técnico Nacional de Comercio 'Simón Rodríguez'",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Pontificia Universidad Javeriana",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad de San Buenaventura (USB)",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Santiago de Cali (USC)",
+          "ciudad": "Palmira"
+        },
+        {
+          "nombre": "Corporación CRES",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Guadalajara de Buga - Palmira - Santiago de Cali - Tuluá"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Floresta Baja - Santiago de Cali"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Santiago de Cali"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Buenaventura - Buga - Cartago - Granada - Palmira - Roldanillo - Santiago de Cali"
+        }
+      ]
+    }
+  },
+  {
+    "departamento": "Cauca",
+    "latitud": "2.3964",
+    "longitud": "-76.6345",
+    "universidades": {
+      "publicas": [
+        {
+          "nombre": "Universidad del Cauca",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Colegio Mayor del Cauca",
+          "ciudad": ""
+        },
+        {
+          "nombre": "Instituto Tolimense de Formación Técnica Profesional (ITFIP)",
+          "ciudad": ""
+        }
+      ],
+      "privadas": [
+        {
+          "nombre": "Centro Universitario de Bienestar Rural (CUBR)",
+          "ciudad": "Puerto Tejada"
+        },
+        {
+          "nombre": "Corporación Universitaria Autónoma del Cauca",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Fundación Universitaria de Popayán (FUP)",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Cooperación Universitaria Autónoma del Cauca",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Cooperación Universitaria Comfacauca",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Fundación Universitaria Maria Cano",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Corporación Universitaria Remington",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Universidad Cooperativa de Colombia (UCC)",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Servicio Nacional de Aprendizaje (SENA)",
+          "ciudad": "Popayán"
+        },
+        {
+          "nombre": "Universidad Antonio Nariño (UAN)",
+          "ciudad": "Popayán"
+        }
+      ]
+    }
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+
+  
+  
+
+  
+  
+  
+  
+  
+  
+
+
+
+
+  
+    ]
+}
+  
+  
