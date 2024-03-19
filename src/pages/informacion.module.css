@@ -29,7 +29,7 @@
 }
 .container svg rect{
   stroke: #00ffb7;
-  stroke-width: 4;
+  stroke-width: 1;
   stroke-dasharray: 400;
   animation: animate 4s forwards infinite;
 }

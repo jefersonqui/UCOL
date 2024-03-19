@@ -62,6 +62,30 @@
 }
 .containerinfoScroll{
   overflow-y:auto;
-  max-height: 500px;
+  max-height: 550px;
+  scrollbar-width:thin;
+  scrollbar-color: #00ffb7 rgba(31, 90, 90, 0.411);
+ 
   
+}
+.containerinfo{
+  background-color: #00ffb71f;
+  
+}
+.tablapublicas, .tablaprivadas {
+  width: 100%; /* Ajusta el ancho de la tabla */
+  border-collapse:collapse; 
+}
+.containerinfoScroll th, .containerinfoScroll td {
+  padding: 10px; /* Ajusta el espacio interno de las celdas */
+  
+  text-align: left; /* Alinea el texto a la izquierda */
+  font-size: 14px; /* Reducir el tamaño de la letra */
+  border: 1px solid #00ffb75b; /* Añade un borde a las celdas */
+}
+h4{
+  font-size: 16px;
+  text-align: center;
+  padding: 8px;
+  background-color: #00ffb7;
 }

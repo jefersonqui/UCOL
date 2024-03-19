@@ -56,6 +56,11 @@ const Map = () => {
                     <div className={styles.pathDepartamento}>
 
                     </div>
+                    <div className={styles.geo}>
+                    {departmentInfo && (
+                            <p>Latitud: {departmentInfo.latitud}, Longitud: {departmentInfo.longitud}</p>
+                        )}
+                </div>
                 </div>
                 <div className={`${styles.mapa}`}>
                     {svgContent && (
@@ -67,20 +72,16 @@ const Map = () => {
                     )}
                 </div>
                 <div className={styles.description}>
-                <div className={styles.geo}>
-                    {departmentInfo && (
-                            <p>Latitud: {departmentInfo.latitud}, Longitud: {departmentInfo.longitud}</p>
-                        )}
-                </div>
+
                 <div className={styles.containerinfoScroll}>
                     {departmentInfo && (
                         <div className={styles.containerinfo}>
-                            <h3>Universidades Públicas</h3>
-                            <table>
+                            <h4>Universidades Públicas</h4>
+                            <table className={styles.tablapublicas}>
                                 <thead>
-                                    <tr>
-                                        <th>Nombre</th>
-                                        <th>Ciudad</th>
+                                    <tr className={styles.infodepar}>
+                                        <th className={styles.infodepar}>Nombre</th>
+                                        <th className={styles.infodepar}>Ciudad</th>
                                     </tr>
                                 </thead>
                                 <tbody>
@@ -92,8 +93,8 @@ const Map = () => {
                                     ))}
                                 </tbody>
                             </table>
-                            <h3>Universidades Privadas</h3>
-                            <table>
+                            <h4>Universidades Privadas</h4>
+                            <table className={styles.tablaprivadas}>
                                 <thead>
                                     <tr>
                                         <th>Nombre</th>
