@@ -4,8 +4,9 @@ const Informacion = () => {
   return (
 <section className={styles.sectioncontainer}>
         <div className={styles.container}>
-            <svg><rect></rect></svg>
+    
             <div className={styles.item}>
+            
                 <h2>Bienvenido a nuestra plataforma de información sobre universidades en Colombia</h2>
                 <p>Nuestra página web es una plataforma interactiva diseñada para ayudarte a 
                 explorar las universidades públicas y privadas de Colombia de una 
